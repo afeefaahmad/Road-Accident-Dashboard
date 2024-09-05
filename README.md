@@ -15,11 +15,12 @@ Generated detailed reports and dashboards to visualize accident hotspots and rec
 ![Screenshot (36](https://github.com/user-attachments/assets/1fd3c5b4-a3df-4c65-b760-de0dba651270)
 
 The findings from analyzing a U.S. accident dataset reveal critical insights into accident trends, causes, and potential prevention measures. Here are some key findings:
+
 1._Accident Severity_
 Factors Influencing Severity:
 Accidents involving larger vehicles (e.g., trucks, buses) tend to result in more severe outcomes, especially for occupants of smaller vehicles.
 
-2. _Road and Traffic Factors_
+2._Road and Traffic Factors_
 Highway vs. Local Roads:
 Accidents on highways are less frequent but more severe due to higher speeds.
 Local roads or streets have frequent minor accidents, often at intersections or near traffic signals.
