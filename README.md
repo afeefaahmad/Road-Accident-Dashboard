@@ -1,6 +1,6 @@
 # U.S. Accident Data Analysis Project
 
-**Tools & Technologies**: Excel (Pivot Tables, Charts, Data Analysis Toolpak), Power Query
+**Tools & Technologies**: Excel (Pivot Tables, Charts, Data Analysis Toolpak), Power Query💻💻
 
 
 1.Analyzed a large dataset of U.S. road accidents using Excel, identifying trends related to accident frequency, severity, and contributing factors.
