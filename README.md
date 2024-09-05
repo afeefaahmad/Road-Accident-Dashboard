@@ -12,3 +12,7 @@ Tools & Technologies: Excel (Pivot Tables, Charts, Data Analysis Toolpak), Power
 Generated detailed reports and dashboards to visualize accident hotspots and recommended traffic safety improvements.
 
 ![Screenshot (36](https://github.com/user-attachments/assets/1fd3c5b4-a3df-4c65-b760-de0dba651270)
+
+The findings from analyzing a U.S. accident dataset reveal critical insights into accident trends, causes, and potential prevention measures. Here are some key findings:
+
+
