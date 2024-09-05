@@ -2,6 +2,7 @@
 
 **Tools & Technologies**: Excel (Pivot Tables, Charts, Data Analysis Toolpak), Power Query
 
+
 1.Analyzed a large dataset of U.S. road accidents using Excel, identifying trends related to accident frequency, severity, and contributing factors.
 
 2.Utilized Pivot Tables and Charts to visualize accident patterns, such as peak occurrences during rush hours and adverse weather conditions.
