@@ -2,6 +2,7 @@
 
 **Tools & Technologies**: Excel (Pivot Tables, Charts, Data Analysis Toolpak), Power Query💻💻
 
+_The U.S. Accident Data Analysis Project is a data analysis project that involves examining a dataset containing records of accidents that occurred in the United States. The goal of the project is to extract insights, identify patterns, and provide recommendations based on the data. Typically, the dataset includes information about the time, location, severity, and conditions surrounding each accident, such as weather and road conditions._
 
 1.Analyzed a large dataset of U.S. road accidents using Excel, identifying trends related to accident frequency, severity, and contributing factors.
 
